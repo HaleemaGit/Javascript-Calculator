@@ -23,6 +23,7 @@ switch(operator) {
          result = number1 * number2;
         document.write(`${number1} * ${number2} = ${result}`);
         break;
+        
 
     case '/':
          result = number1 / number2;
